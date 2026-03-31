@@ -37,7 +37,7 @@ This repository contains the completed tasks for the Kubernetes lab, demonstrati
 - Defined `apps/v1` Deployment.
 - Configured correct `matchLabels` and `env` parameters.
 
-<img width="665" height="472" alt="Screenshot 2026-03-31 221822" src="https://github.com/user-attachments/assets/7d1255d2-499f-4274-b2e3-044b7d1a4f46" />
+<img width="708" height="667" alt="image" src="https://github.com/user-attachments/assets/179bba2a-09cb-424d-8a94-fc944ac8445e" />
 
 **Deployment Execution & Verification:**
 - Applied the deployment successfully.
